@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Montserrat Alternates', sans-serif !important;
+  background-color: #131722;
+  color: #fff;
+}
+
+.bg-lights {
+  background-color: #24baef !important;
+}
+
+.vote {
+  background-color: #24baef;
+}
+
+.brdr {
+  height: 1px;
+  background-color: #a8a8a83d !important;
+}
+
+a,
+a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.form-control {
+  background-color: transparent !important;
+  color: #fff !important;
+}
+
+.image {
+  border-radius: 50% !important;
+  width: 150px !important;
+}
+
+.profile {
+  border: #272a2b solid 2px;
+  padding-top: 15px;
+}
+
+.link:hover {
+  color: #fff !important;
+}
+
+.datecima {
+  margin-right: 10px !important;
+}
+
+.imdb {
+  color: #efe301 !important
+}
+
+.cursr {
+  cursor: pointer;
+}
+
+.home {
+  height: 100%;
+  background-image: url('https://th.bing.com/th/id/R.b57c8231488ec66f0c4a18a20d8c4f06?rik=FG7Dhjuf6sCfQg&pid=ImgRaw&r=0');
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:fixed ;
+  position: relative;
+}
+.home2{
+  position: absolute;
+  top:30%;
+  left:20%;
+}
